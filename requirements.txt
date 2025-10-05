@@ -1,0 +1,4 @@
+fastai==2.8.4
+torch==2.7.1+cu118
+gradio==5.49.0
+pillow==11.0.0
